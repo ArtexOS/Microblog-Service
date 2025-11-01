@@ -30,4 +30,3 @@ curl -H "api-key: alice-key" http://localhost:8000/api/tweets
 - Пагинация ленты и твитов
 - Асинхронный стек (async SQLAlchemy + asyncpg)
 - Nginx/SPA билд фронтенда
-```
